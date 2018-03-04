@@ -1,10 +1,10 @@
 [![Build Status](https://travis-ci.org/seanh/flitter.svg)](https://travis-ci.org/seanh/flitter)
 [![Coverage Status](https://img.shields.io/coveralls/seanh/flitter.svg)](https://coveralls.io/r/seanh/flitter)
-[![Latest Version](https://pypip.in/version/flitter/badge.svg)](https://pypi.python.org/pypi/flitter/)
-[![Downloads](https://pypip.in/download/flitter/badge.svg)](https://pypi.python.org/pypi/flitter/)
-[![Supported Python versions](https://pypip.in/py_versions/flitter/badge.svg)](https://pypi.python.org/pypi/flitter/)
-[![Development Status](https://pypip.in/status/flitter/badge.svg)](https://pypi.python.org/pypi/flitter/)
-[![License](https://pypip.in/license/flitter/badge.svg)](https://pypi.python.org/pypi/flitter/)
+[![Latest Version](https://img.shields.io/pypi/v/flitter.svg)](https://pypi.python.org/pypi/flitter/)
+[![Downloads](https://img.shields.io/pypi/dm/flitter.svg)](https://pypi.python.org/pypi/flitter/)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/flitter.svg)](https://pypi.python.org/pypi/flitter/)
+[![Development Status](https://img.shields.io/pypi/status/flitter.svg)](https://pypi.python.org/pypi/flitter/)
+[![License](https://img.shields.io/pypi/l/flitter.svg)](https://pypi.python.org/pypi/flitter/)
 
 
 Flitter
